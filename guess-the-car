@@ -466,5 +466,13 @@
     {
         "img": "https://cdn.discordapp.com/attachments/1466228533306327183/1495706625158156408/87f5c19c-7b56-421f-84e6-818c7ff19e33_1140x641.webp?ex=69e738d8&is=69e5e758&hm=9a0351a3dc6aab10e22acb5bfbc6171fd8e8c1bac5ed5b8375ab9b8afd7f7acc&",
         "name": "Good Burger Car"
+    },
+    {
+        "img": "https://cdn.discordapp.com/attachments/980911086201106456/1567208018591092937/images.png?ex=6aeb57b4&is=6aea0634&hm=0369977c54b488ed8c8e0b2112ad6e6f2718b2d12f40edfc4fa6da359b4327d0&",
+        "name": "Tesla Cybertruck"
+    },
+    {
+        "img": "https://cdn.discordapp.com/attachments/980911086201106456/1567208425396502538/image.png?ex=6aeb5815&is=6aea0695&hm=df77b5fd535541954522c818b0bbe9fdd1299bbb47c14b8b90f6d0399bb99e3a&",
+        "name": "Tesla Roadster"
     }
 ]
